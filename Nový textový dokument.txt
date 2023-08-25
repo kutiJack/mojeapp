@@ -1,1 +1,1 @@
-rename rename ....................vetev 3333
+all -all
