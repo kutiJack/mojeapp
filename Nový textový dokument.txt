@@ -1,1 +1,1 @@
-změnil jsem to lokálně a posílám na master
+aktivní branch je master
