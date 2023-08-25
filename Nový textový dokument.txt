@@ -1,1 +1,1 @@
-aktivní branch je master
+master master 
