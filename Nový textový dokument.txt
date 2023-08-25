@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 tak co jardo?
 
+=======
+editováno z branch
+>>>>>>> ce24c5c6321eb6ba53b69c58c99f8363b21ad779
