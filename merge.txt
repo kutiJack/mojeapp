@@ -1,1 +1,2 @@
 "1. dobry kod" 
+"2. dobry kod" 
