@@ -4,3 +4,6 @@
 "4. dobry kod" 
 5. pozor změna
 6. co se změnilo
+
+
+centrální admin posílá novou verzi
