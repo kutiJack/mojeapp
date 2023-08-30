@@ -1,3 +1,4 @@
 "1. dobry kod" 
 "2. dobry kod" 
 "3. spatný kod!!!!!" 
+"4. dobry kod" 
